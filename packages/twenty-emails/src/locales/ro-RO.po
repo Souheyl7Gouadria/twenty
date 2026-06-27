@@ -169,16 +169,6 @@ msgid "This link is only valid for the next {duration}. If the link does not wor
 msgstr "Acest link este valabil doar pentru următoarele {duration}. Dacă linkul nu funcționează, puteți folosi direct linkul de verificare a autentificării:"
 
 #. js-lingui-explicit-id
-#: src/components/WhatIsTwenty.tsx
-msgid "What is Twenty?"
-msgstr "Ce este Twenty?"
-
-#. js-lingui-explicit-id
-#: src/components/WhatIsTwenty.tsx
-msgid "It's a CRM, a software to help businesses manage their customer data and relationships efficiently."
-msgstr "Este un CRM, un software care ajută companiile să își gestioneze eficient datele și relațiile cu clienții."
-
-#. js-lingui-explicit-id
 #: src/emails/clean-suspended-workspace.email.tsx
 msgid "Deleted Workspace"
 msgstr "Spațiu de lucru șters"
@@ -202,6 +192,16 @@ msgstr "Dacă doriți să folosiți din nou Twenty, puteți crea un spațiu de l
 #: src/emails/clean-suspended-workspace.email.tsx
 msgid "Create a new workspace"
 msgstr "Creează un nou spațiu de lucru"
+
+#. js-lingui-explicit-id
+#: src/components/WhatIsTwenty.tsx
+msgid "What is Twenty?"
+msgstr "Ce este Twenty?"
+
+#. js-lingui-explicit-id
+#: src/components/WhatIsTwenty.tsx
+msgid "It's a CRM, a software to help businesses manage their customer data and relationships efficiently."
+msgstr "Este un CRM, un software care ajută companiile să își gestioneze eficient datele și relațiile cu clienții."
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx

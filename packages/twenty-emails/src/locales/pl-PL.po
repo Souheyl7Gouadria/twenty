@@ -169,16 +169,6 @@ msgid "This link is only valid for the next {duration}. If the link does not wor
 msgstr "Ten link jest ważny tylko przez {duration}. Jeśli link nie działa, można bezpośrednio użyć linku weryfikacyjnego logowania:"
 
 #. js-lingui-explicit-id
-#: src/components/WhatIsTwenty.tsx
-msgid "What is Twenty?"
-msgstr "Czym jest Twenty?"
-
-#. js-lingui-explicit-id
-#: src/components/WhatIsTwenty.tsx
-msgid "It's a CRM, a software to help businesses manage their customer data and relationships efficiently."
-msgstr "To jest CRM, oprogramowanie pomagające firmom w zarządzaniu danymi i relacjami z klientami."
-
-#. js-lingui-explicit-id
 #: src/emails/clean-suspended-workspace.email.tsx
 msgid "Deleted Workspace"
 msgstr "Usunięta przestrzeń pracy"
@@ -202,6 +192,16 @@ msgstr "Jeśli chcesz ponownie korzystać z Twenty, możesz utworzyć nową prze
 #: src/emails/clean-suspended-workspace.email.tsx
 msgid "Create a new workspace"
 msgstr "Utwórz nową przestrzeń pracy"
+
+#. js-lingui-explicit-id
+#: src/components/WhatIsTwenty.tsx
+msgid "What is Twenty?"
+msgstr "Czym jest Twenty?"
+
+#. js-lingui-explicit-id
+#: src/components/WhatIsTwenty.tsx
+msgid "It's a CRM, a software to help businesses manage their customer data and relationships efficiently."
+msgstr "To jest CRM, oprogramowanie pomagające firmom w zarządzaniu danymi i relacjami z klientami."
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
